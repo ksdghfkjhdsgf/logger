@@ -1,0 +1,17 @@
+{
+    "name": "liebigzs/logger",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zsolt Liebig",
+            "email": "zsolt.liebig@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": "^7.0",
+
+      "psr/log": "1.0.0"
+
+    }
+}
